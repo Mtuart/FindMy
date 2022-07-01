@@ -17,17 +17,15 @@ Addon for the Vehicles Plugin (made by Pollitoyeye), which allows you to find yo
   
 ___
 ### Commands and Permissions:
-> /FindMy                    | -/-
-> 
-> /FindMy all                | findmy.all
-> 
-> /FindMy <Vehicle>          | findmy.own
-  
-> /FindMy all <Player>       | findmy.othersall
-  
-> /FindMy <Vehicle> <Player> | findmy.others
+```
+/FindMy
+/FindMy all                > findmy.all
+/FindMy <Vehicle>          > findmy.own
+/FindMy all <Player>       > findmy.othersall
+/FindMy <Vehicle> <Player> > findmy.others
 
-> Click to teleport          | findmy.teleport (Also requires perms to run: "/execute in" and "/minecraft:teleport" command)
+Click to Teleport          > findmy.teleport (Also requires perms to run: "/execute in" and "/minecraft:teleport" command)
+```
 
 ___
 ### FAQ:
