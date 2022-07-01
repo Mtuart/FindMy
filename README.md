@@ -16,6 +16,14 @@ Addon for the Vehicles Plugin (made by Pollitoyeye), which allows you to find yo
   Start losing your Vehicles!
   
 ___
+### Features:
+- Find all your Vehicles again!
+- Limit the search to specific Vehicles!
+- Search Vehicles from other people!
+- Click the Result to teleport!
+- Easy Commands with TabComplete!
+  
+___
 ### Commands and Permissions:
 ```
 /FindMy
