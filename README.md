@@ -27,17 +27,22 @@ ___
 ### Commands and Permissions:
 ```
 /FindMy
-/FindMy all                > findmy.all
-/FindMy <Vehicle>          > findmy.own
-/FindMy all <Player>       > findmy.othersall
-/FindMy <Vehicle> <Player> > findmy.others
+/FindMy all                           > findmy.all
+/FindMy <Vehicle>                     > findmy.own
+/FindMy all <Player | Everyone>       > findmy.othersall
+/FindMy <Vehicle> <Player | Everyone> > findmy.others
+/FindMy reload                        > findmy.reload
 
-Click to Teleport          > findmy.teleport (Also requires perms to run: "/execute in" and "/minecraft:teleport" command)
+Click to Teleport                     > findmy.teleport (Also requires perms to run: "/execute in" and "/minecraft:teleport" command)
 ```
-
+___
+### Config:
+```
+listOfflinePlayers: false             > If the Autocomplete shall display offline players too (USE WITH CAUTION ON LARGE SERVERS!) - default: false
+```
 ___
 ### FAQ:
-- **Why is there no config, to edit the messages?**
+- **Why is there no config to edit the messages?**
   - I can't be asked to add that right now.
 
 - **Why did you not upload the source code?**
