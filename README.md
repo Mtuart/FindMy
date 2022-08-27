@@ -86,8 +86,8 @@ PlaceholderAPI 2.11.2+
 %findmy_GPS%          > Vehicle Type which is currently being located
 %findmy_Direction%    > Direction towards located Vehicle
 %findmy_Distance&     > Distance to the located Vehicle
-
 ```
+
 ---
 ### FAQ:
 - **Why is there no config to edit the messages?**
