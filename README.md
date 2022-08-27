@@ -24,7 +24,7 @@ Would love to hear about feedback, issues and suggestions!
 - Find all your Vehicles again!
 - Limit the search to specific Vehicles!
 - Search Vehicles from other people!
-- Click the locate/teleport/move/pickup!
+- Click to locate/teleport/move/pickup!
 - Easy handling through a GUI!
 - Easy Commands with TabComplete!
   
@@ -47,6 +47,8 @@ Click to Move                  > findmy.move
 Click to Pickup                > findmy.pickup
 
 Use the GUI                    > findmy.gui
+
+All permissions                > findmy.*
 ```
 
 ---
