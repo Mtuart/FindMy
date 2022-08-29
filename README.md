@@ -11,7 +11,8 @@ Would love to hear about feedback, issues and suggestions!
   Get Vehicles 13.6.2 (or higher) and at least Paper 1.17
   
 > Step 2:
-  Remove the old jar and folder and toss the new jar into your /plugins folder. (Download it by clicking on the "Releases" Tab on the right >)
+  Remove the old jar and folder and toss the new jar into your /plugins folder.
+  (Download it by clicking on the "Releases" Tab on the right >)
   
 > Step 3:
   Have everything installed and start your server.
