@@ -99,7 +99,7 @@ PlaceholderAPI 2.11.2+
   - Might follow in another update.
 
 - **Why did you not upload the source code?**
-  - This is a premium freeware addon in my eyes... Meaning that I spent so much time to work on this, it makes it fairly unique currently.
+  - Currently decided to not upload the source code.
   
 - **What are you working on?**
   - Make GUI using easier.
