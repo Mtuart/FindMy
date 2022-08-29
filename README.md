@@ -55,7 +55,7 @@ All permissions                > findmy.*
 ### Config:
 ```
 AutoCompleteSettings:
-  listOfflinePlayers: false  > If the Autocomplete shall display offline players too (USE WITH CAUTION ON LARGE SERVERS!)
+  listOfflinePlayers: false  > (USE WITH CAUTION ON LARGE SERVERS!) If the Autocomplete shall display offline players as well
 GUISettings:
   useGUI: true               > Enable the GUI
 LocateSettings:
