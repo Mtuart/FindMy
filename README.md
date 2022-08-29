@@ -79,7 +79,6 @@ Paper 1.17+
 Vehicles 13.6.2+
 
 (Soft)
-VehicleTeleport 1.0+ (Will receive rework soon and is already integrated into FindMy)
 PlaceholderAPI 2.11.2+
 ```
 
