@@ -3,7 +3,7 @@
 Addon for the Vehicles Plugin (made by Pollitoyeye), which allows you to find your Vehicles again!
 
 
-Would love to hear about feedback, issues and suggestions!
+** Plugin is no longer maintained **
 
 ---
 ### How to install:
